@@ -1,4 +1,4 @@
-# [ITEM-GRABBER-V1 (Must Read!)](https://github.com/PUSCRIPTS/ITEM-GRABBER-V1/tree/main?tab=License-1-ov-file)
+# [ITEM-GRABBER-V1 (Must Read!)](https://github.com/PUSCRIPTS/ITEM-GRABBER/tree/main?tab=License-1-ov-file)
 
 ## Description
 ITEM-GRABBER-V1 is a versatile Roblox script that allows users to automatically farm any selected item in the game Ohio. The script works across all executors and devices, offering a seamless way to gather items efficiently.
