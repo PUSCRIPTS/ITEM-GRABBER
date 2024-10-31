@@ -1,7 +1,7 @@
 # ITEM-GRABBER-V1 License Agreement
 
 **Effective Date:** October 21, 2024  
-**Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
+**Owner:** PinguinDEV (Only one PinguinDEV, username: mxhakon)
 
 ## 1. Usage
 This script can only be used if you have gained access/permission from the owner, PinguinDEV. Users are strictly prohibited from stealing, copying, modifying, or publishing this script in any form.
@@ -15,8 +15,8 @@ Join the game Ohio, execute the script, select any item from the menu, and press
 ## 4. Support
 For any support issues, contact me through Discord:
 - **Display Name:** PinguinDEV
-- **Username:** 4d04
-- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C)
+- **Username:** mxhakon
+- [PinguinDEV Discord](https://www.discord.gg/pinguindev)
 
 ## 5. Refund Policy
 There are no refunds, as the script is free for everyone. If you find any bugs or issues, you must notify the owner/developer, PinguinDEV.
@@ -41,8 +41,8 @@ If any unauthorized use or distribution of the script occurs, PinguinDEV reserve
 ## 10. Contact Information
 Users can only contact me through my Discord:
 - **Display Name:** PinguinDEV
-- **Username:** 4d04
-- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C)
+- **Username:** mxhakon
+- [PinguinDEV Discord](https://www.discord.gg/pinguindev)
 
 ## 11. Video Creation
 You are permitted to create videos showcasing the use of this script, but you must credit PinguinDEV at the end or within the video, including the YouTube channel link: [PinguinDEV YouTube](https://www.youtube.com/@PinguinDevXYZ).
